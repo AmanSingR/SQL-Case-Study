@@ -1,0 +1,6 @@
+This SQL Case study in which we shall download a dataset from Kaggle and then upload it to a microsoft sql server management studio database using Python. We shall then analyze the data and solve 20+ SQL queries. The aim is to provide you with a dataset to analyze data and then practice basic to intermediate SQL problems. 
+
+The dataset we use is the famous paintings dataset taken from Kaggle. We use a simple Python script to upload data from CSV files to microsoft sql server management studio database tables. We then use SQL queries to answer over 20 problems related to the famous paintings dataset.
+
+Kaggle dataset link:
+https://www.kaggle.com/datasets/mexwell/famous-paintings
